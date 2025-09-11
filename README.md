@@ -1,5 +1,5 @@
 # Business-project
-Business project - описується консольна програму для прототипу бізнес проект
+Business project - описується консольна програму для прототипу бізнес проект з продащу квартир 
 #include <iostream>
 #include <string>
 #include <vector>
